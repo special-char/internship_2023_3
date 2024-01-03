@@ -1,2 +1,0 @@
-Hello, I am using Oracle VIrtual Machine.
-Using Nano editor instead of Vim editor.
